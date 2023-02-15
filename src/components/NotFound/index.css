@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.notFound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.notfound-logo {
+  width: 220px;
+  margin-bottom: 10px;
+}
+.not-found {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #551e53;
+}
